@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ScheduleApp",
+    "slug": "ScheduleApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ScheduleApp"
+}
